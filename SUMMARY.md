@@ -10,7 +10,6 @@
 
 * [Grid - Guide](grid-system/grid-guide.md)
 * [Grid - 1280 \(1600~\)](grid-system/grid-1280-1.md)
-* [Grid - 960 \(1280 ~ 1600\)](grid-system/grid-960.md)
 
 ## Login/SignUp <a id="login"></a>
 
