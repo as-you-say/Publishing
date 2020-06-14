@@ -14,10 +14,10 @@
 어디까지나 간단하게 나타낸 경우이므로 실제로는 디자이너의 시안에 맞게 더욱 복잡한 속성들이 많이 들어갈 것입니다.
 
 ```css
-h1 {letter-spacing: -75; font-size: 40px; font-weight: 600;}
-h2 {letter-spacing: -75; font-size: 32px; font-weight: 600;}
-h3 {letter-spacing: -75; font-size: 24px; font-weight: 600;}
-p {letter-spacing: -75; font-size: 16px;}
+h1 {letter-spacing: -.75px; font-size: 40px; font-weight: 600;}
+h2 {letter-spacing: -.75px; font-size: 32px; font-weight: 600;}
+h3 {letter-spacing: -.75px; font-size: 24px; font-weight: 600;}
+p {letter-spacing: -.75px; font-size: 16px;}
 ```
 
 
