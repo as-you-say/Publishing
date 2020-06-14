@@ -43,6 +43,8 @@
 또한, 영역별로 letter-spacing 을 적용한 후, 13px 14px 15px 폰트사이즈는 각각 요소별로 적용하기도 합니다. 그리고 2줄 이상으로 표현되는 글이 없다면, line-height 값은 중요하지 않기 때문에, 초기화 CSS 코드에서 정의했던 16px 과 같은 값을 사용하도록 합니다.
 
 ```css
+body {line-height: 16px;}
+
 h1 {letter-spacing: -.25px; font-size: 40px; line-height: 54px; font-weight: 600;}
 h2 {letter-spacing: -.25px; font-size: 32px; line-height: 44px; font-weight: 600;}
 h3 {letter-spacing: -.25px; font-size: 24px; line-height: 34px; font-weight: 600;}
