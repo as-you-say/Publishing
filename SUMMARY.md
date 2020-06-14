@@ -1,9 +1,16 @@
 # Table of contents
 
-* [타이포그래피](README.md)
-* [Untitled](untitled.md)
-* [Untitled](untitled-1.md)
-* [그리드 시스템](layout.md)
+* [Initial Page](README.md)
+
+## Typography
+
+* [Noto Sans KR](typography/noto-sans-kr.md)
+
+## Grid System
+
+* [Grid - Guide](grid-system/grid-guide.md)
+* [Grid - 1280 \(1600~\)](grid-system/grid-1280-1.md)
+* [Grid - 960 \(1280 ~ 1600\)](grid-system/grid-960.md)
 
 ## Login/SignUp <a id="login"></a>
 
