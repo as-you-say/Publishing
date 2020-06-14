@@ -9,8 +9,7 @@
 
 ## Grid System
 
-* [Grid - Guide](grid-system/grid-guide.md)
-* [Grid - 1280 \(1600~\)](grid-system/grid-1280-1.md)
+* [Grid - 1200](grid-system/grid-1200.md)
 * [Grid - 반응형](grid-system/grid.md)
 
 ## Login/SignUp <a id="login"></a>
