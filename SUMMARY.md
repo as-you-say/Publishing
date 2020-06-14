@@ -4,12 +4,14 @@
 
 ## Typography
 
+* [Noto Sans](typography/noto-sans.md)
 * [Noto Sans KR](typography/noto-sans-kr.md)
 
 ## Grid System
 
 * [Grid - Guide](grid-system/grid-guide.md)
 * [Grid - 1280 \(1600~\)](grid-system/grid-1280-1.md)
+* [Grid - 반응형](grid-system/grid.md)
 
 ## Login/SignUp <a id="login"></a>
 
