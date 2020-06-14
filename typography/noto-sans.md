@@ -45,10 +45,10 @@
 ```css
 body {line-height: 16px;}
 
-h1 {letter-spacing: -.25px; font-size: 40px; line-height: 54px; font-weight: 600;}
-h2 {letter-spacing: -.25px; font-size: 32px; line-height: 44px; font-weight: 600;}
-h3 {letter-spacing: -.25px; font-size: 24px; line-height: 34px; font-weight: 600;}
-p {letter-spacing: -.25px; font-size: 16px; line-height: 24px;}
+p.t1 {letter-spacing: -.25px; font-size: 40px; line-height: 54px; font-weight: 600;}
+p.t2 {letter-spacing: -.25px; font-size: 32px; line-height: 44px; font-weight: 600;}
+p.t3 {letter-spacing: -.25px; font-size: 24px; line-height: 34px; font-weight: 600;}
+p.t4 {letter-spacing: -.25px; font-size: 16px; line-height: 24px;}
 ```
 
 
